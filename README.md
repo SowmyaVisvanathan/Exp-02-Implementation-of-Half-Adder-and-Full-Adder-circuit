@@ -1,4 +1,3 @@
-![image](https://github.com/SowmyaVisvanathan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475775/e9e48d94-c43e-48dd-bc42-e3e771449b76)# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -53,10 +52,7 @@ assign carry = (a&b)|((a^b)&cin);
 endmodule
 ```
 ## RTL DIAGRAM:
-1. HALF ADDER
 ![image](https://github.com/SowmyaVisvanathan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475775/0ba1d785-8c59-4d60-bcad-1f64610011eb)
-
-2. FULL ADDER
 ![image](https://github.com/SowmyaVisvanathan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/119475775/1fdf97dc-f3a4-43c6-b466-8a60aed7da1f)
 
 ### TRUTH TABLE:
